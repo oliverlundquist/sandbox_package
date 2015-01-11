@@ -1,1 +1,1 @@
-just a random package at v2.0
+just a random package at v2.0.0
